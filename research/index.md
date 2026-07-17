@@ -20,6 +20,8 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 ## All
 
+<!-- {% include tags.html tags="publication, resource, website" %} -->
+
 {% include search-box.html %}
 
 {% include search-info.html %}

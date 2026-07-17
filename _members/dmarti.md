@@ -4,7 +4,7 @@ ref: dmg
 image: images/people/Diana-tiny.jpg
 description: Post-Doctoral Researcher
 role: postdoc
-affiliation: IVI Foundation
+# affiliation: IVI Foundation
 aliases:
   - D. Martí-García
   - Diana Martí-García

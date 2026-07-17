@@ -94,24 +94,24 @@
   type: paper
   ref: gsrm
 
-- id: doi:10.1016/j.biopha.2025.118942
-  type: paper
-  ref: gsrm
-
-
-
 # - id: doi:10.1016/j.biopha.2025.118942
-#   # type: paper
-#   description: Aquí se hicieron cosas.
-#   ref: good
-#   # date: 2020-12-4
-#   image: https://ars.els-cdn.com/content/image/1-s2.0-S0753332225011369-gr1.jpg
-#   buttons:
-#     - type: source
-#       text: Manuscript Source
-#       link: https://github.com/greenelab/meta-review
-#     - type: website
-#       link: http://manubot.org/
-#   tags:
-#     - Reproduction Medicine
-#     - Review
+#   type: paper
+#   ref: gsrm
+
+
+
+- id: doi:10.1016/j.biopha.2025.118942
+  # type: paper
+  description: Aquí se hicieron cosas.
+  ref: gsrm
+  # date: 2020-12-4
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0753332225011369-gr1.jpg
+  buttons:
+    - type: source
+      text: Manuscript Source
+      link: https://github.com/greenelab/meta-review
+    - type: website
+      link: http://manubot.org/
+  tags:
+    - Reproduction Medicine
+    - Review

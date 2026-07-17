@@ -2,9 +2,9 @@
 name: Mar Vaquerizo-Medina
 ref: mvm
 image: images/people/Mar-tiny.jpeg
-description: MSc Student
+description: Research Assistant
 role: phd
-affiliation: IVI Foundation
+# affiliation: IVI Foundation
 aliases:
   - Mar Vaquerizo-Medina
   - M. Vaquerizo-Medina

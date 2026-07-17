@@ -1,10 +1,10 @@
 ---
-name: José Benedito-Álvarez
+name: José Benedito-Álvarez, MSc
 ref: jba
 image: images/people/jose-tiny.jpeg
-description: MSc
+description: Research Assistant
 role: programmer
-affiliation: IVI Foundation
+# affiliation: IVI Foundation
 aliases:
   - P. Sebastian-Leon
   - Patricia Sebastián-León

@@ -4,7 +4,7 @@ ref: fsl
 image: images/people/Fran-tiny.jpg
 description: Post-doctoral Researcher
 role: laboratory
-affiliation: IVI Foundation
+# affiliation: IVI Foundation
 aliases:
   - Francisco Sanz-López
   - F. Sanz-López

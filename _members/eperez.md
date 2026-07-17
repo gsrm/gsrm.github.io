@@ -1,10 +1,10 @@
 ---
-name: Elena Pérez-Rico
+name: Elena Pérez-Rico, MSc
 ref: 
 image: images/people/Elena-tiny.jpg
 description: PhD student
 role: phd
-affiliation: IVI Foundation
+# affiliation: IVI Foundation
 aliases:
   - E. Pérez-Rico
   - Elena Pérez-Rico

@@ -1,10 +1,10 @@
 ---
-name: Alicia Quiñonero Villora
+name: Alicia Quiñonero Villora, MSc
 ref: aqv
 image: images/people/Ali-tiny.jpg
 description: Laboratory technician
 role: laboratory
-affiliation: IVI Foundation
+# affiliation: IVI Foundation
 aliases:
   - A. Quiñonero-Villora
   - Alicia Quiñonero-Villora

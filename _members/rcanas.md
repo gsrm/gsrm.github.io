@@ -4,10 +4,10 @@ ref: rcc
 image: images/people/Ruben-tiny.jpg
 description: Bioinformatician
 role: programmer
-affiliation: IVI Foundation
+# affiliation: IVI Foundation
 aliases:
   - R. Cañas-Cañas
-  - Rubén Cañas-Cañas
+  - Ruben Cañas-Cañas
 links:
   linkedin: ruben-canas-canas-74332010b/
   github: rubencc96

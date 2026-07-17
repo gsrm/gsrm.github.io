@@ -1,10 +1,10 @@
 ---
-name: María Salvaleda-Mateu
+name: María Salvaleda-Mateu, MSc
 ref: 
 image: images/people/maria-tiny.jpeg
 description: PhD student
 role: phd
-affiliation: IVI Foundation
+# affiliation: IVI Foundation
 aliases:
   - María Salvaleda-Mateu
   - M. Salvaleda-Mateu

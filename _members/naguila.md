@@ -1,10 +1,10 @@
 ---
-name: Nataly del Águila de Cárdenas
+name: Nataly del Águila de Cárdenas, MSc
 ref: nac
 image: images/people/Nataly-tiny.jpg
 description: PhD Student
 role: phd
-affiliation: IVI Foundation
+# affiliation: IVI Foundation
 aliases:
   - Nataly del Águila
   - N. del Aguila
