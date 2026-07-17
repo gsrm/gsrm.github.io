@@ -1,14 +1,16 @@
 ---
-name: Jane Smith
-image: images/photo.jpg
-role: principal-investigator
-affiliation: University of Colorado
+name: Rebeca Esteve-Moreno
+ref: 
+image: images/people/Rebeca-tiny.jpg
+description: PhD student
+role: phd
+affiliation: IVI Foundation
 aliases:
-  - J. Smith
-  - J Smith
-links:
-  home-page: https://janesmith.com
-  orcid: 0000-0001-8713-9213
+  - R. Esteve-Moreno
+  - Rebeca Esteve-Moreno
+# links:
+#   orcid: 0000-0003-0031-7545
+#   linkedin: patridiazgimeno
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
