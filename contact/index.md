@@ -14,20 +14,28 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="Patricia Díaz-Gimeno"
+  link="Patricia.Diaz@ivirma.com"
 %}
+
 {%
+  include button.html
+  type="email"
+  text="Innovation Group"
+  link="innovation.group.pdiaz@ivirma.com"
+%}
+
+<!-- {%
   include button.html
   type="phone"
   text="(555) 867-5309"
   link="+1-555-867-5309"
-%}
+%} -->
 {%
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  link="https://maps.app.goo.gl/7XXYEVL3KKcc2gWcA"
 %}
 
 {% include section.html %}

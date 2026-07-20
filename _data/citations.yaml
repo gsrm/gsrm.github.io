@@ -1,282 +1,935 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1016/j.patter.2026.101514
-  title: Scalable data harmonization for single-cell image-based profiling with CytoTable
+- id: doi:10.1016/j.fertnstert.2025.09.004
+  title: 'Evaluating the feasibility of hyperspectral endometrial analysis as a less
+    invasive technique for endometrial evaluation: a pilot study'
   authors:
-  - Dave Bunten
-  - Jenna Tomkinson
-  - Erik Serrano
-  - Michael J. Lippincott
-  - Kenneth I. Brewer
-  - Vince Rubinetti
-  - Faisal Alquaddoomi
-  - Gregory P. Way
-  publisher: Patterns
-  date: '2026-05-01'
-  link: https://doi.org/hbvg3p
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2025.06.19.660613
-  title: Scalable data harmonization for single-cell image-based profiling with CytoTable
-  authors:
-  - Dave Bunten
-  - Jenna Tomkinson
-  - Erik Serrano
-  - Michael J. Lippincott
-  - Kenneth I. Brewer
-  - Vince Rubinetti
-  - Faisal Alquaddoomi
-  - Gregory P. Way
-  publisher: openRxiv
-  date: '2025-06-25'
-  link: https://doi.org/g9rfr3
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
-  authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
-  authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
-  publisher: openRxiv
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
-  authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
-  authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: openRxiv
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
-  authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
-  authors:
-  - Faisal S Alquaddoomi
-  - Joseph T Burke
-  - Lo Sosinski
-  - David A Mayer
-  - Evan P Brenner
-  - Samuel Z Chen
-  - Jacob D Krol
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: openRxiv
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
-  authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
+  - Diana Marti-Garcia
+  - Patricia Sebastian-Leon
+  - "Pilar Alam\xE1"
+  - Laura Caracena
+  - Antonio Parraga-Leo
+  - Elena Perez-Rico
+  - Antonio Pellicer
+  - Patricia Diaz-Gimeno
+  publisher: Fertility and Sterility
+  date: '2026-03-01'
+  link: https://doi.org/hb9w5h
+  orcid: 0000-0003-0031-7545
   plugin: sources.py
   file: sources.yaml
   type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+  ref: gsrm
+- id: doi:10.1016/j.biopha.2025.118942
+  title: 'Descriptive overview of gene variants potentially affecting female infertility
+    treatments: A systematic review'
+  authors:
+  - Asunta Martinez-Martinez
+  - "Francisco Jos\xE9 Sanz"
+  - Pablo Garcia-Acero
+  - Patricia Sebastian-Leon
+  - Patricia Diaz-Gimeno
+  publisher: Biomedicine &amp; Pharmacotherapy
+  date: '2026-01-01'
+  link: https://doi.org/hb9w5k
+  orcid: 0000-0003-0031-7545
+  plugin: sources.py
+  file: sources.yaml
+  description: "Aqu\xED se hicieron cosas."
+  ref: gsrm
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0753332225011369-gr1.jpg
   buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
   - type: source
     text: Manuscript Source
     link: https://github.com/greenelab/meta-review
   - type: website
     link: http://manubot.org/
   tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
+  - Reproduction Medicine
+  - Review
+- id: doi:10.3390/nu17233783
+  title: 'Reducing Storage-Related Bias in Reproductive Vitamin D Research: Towards
+    a Stable and Reliable Biomarker of Ovarian Vitamin D Status'
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: openRxiv
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
+  - Evelin E. Lara-Molina
+  - Jason M. Franasiak
+  - Almudena Devesa-Peiro
+  - "Marina L\xF3pez-Nogueroles"
+  - "Alberto V\xE1zquez"
+  - "David Amor\xF3s"
+  - "Agust\xEDn Ballesteros"
+  - Antonio Pellicer
+  - Patricia Sebastian-Leon
+  - Patricia Diaz-Gimeno
+  publisher: Nutrients
+  date: '2025-12-02'
+  link: https://doi.org/hb9w5m
+  orcid: 0000-0003-0031-7545
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+- id: doi:10.1101/2025.11.04.25339037
+  title: 'A Drug Repurposing Strategy for a New Cause of Endometrial Infertility:
+    Unveiling Promising New Treatments'
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  - Antonio Parraga-Leo
+  - Patricia Sebastian-Leon
+  - "Josefa Mar\xEDa Sanchez-Reyes"
+  - Francisco Jose Sanz
+  - Maria Del Carmen Vidal
+  - Immaculada Sanchez Ribas
+  - Jose Remohi
+  - Antonio Pellicer
+  - Marina Sirota
+  - Patricia Diaz-Gimeno
+  publisher: openRxiv
+  date: '2025-11-06'
+  link: https://doi.org/hb9w5n
+  orcid: 0000-0003-0031-7545
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2025.10.06.25337149
+  title: Systems Pharmacology Model Predicts Zinc and Copper Can Be Repurposed as
+    Endometriosis Therapies
+  authors:
+  - Pablo Garcia-Acero
+  - Francisco Jose Sanz
+  - Patricia Sebastian-Leon
+  - Almudena Devesa-Peiro
+  - Antonio Parraga-Leo
+  - Patricia Diaz-Gimeno
+  publisher: openRxiv
+  date: '2025-10-10'
+  link: https://doi.org/hb9w5p
+  orcid: 0000-0003-0031-7545
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.fertnstert.2025.05.150
+  title: 'Advanced maternal age was associated with an annual decline in reproductive
+    success despite use of donor oocytes: a retrospective study'
+  authors:
+  - Patricia Sebastian-Leon
+  - Francisco Jose Sanz
+  - Pietro Molinaro
+  - Antonio Pellicer
+  - Patricia Diaz-Gimeno
+  publisher: Fertility and Sterility
+  date: '2025-10-01'
+  link: https://doi.org/hb9w5q
+  orcid: 0000-0003-0031-7545
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+  type: paper
+  ref: gsrm
+- id: doi:10.3390/pharmaceutics17081020
+  title: "Are We Considering All the Potential Drug\u2013Drug Interactions in Women\u2019\
+    s Reproductive Health? A Predictive Model Approach"
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  - Pablo Garcia-Acero
+  - Ismael Henarejos-Castillo
+  - Francisco Jose Sanz
+  - Patricia Sebastian-Leon
+  - Antonio Parraga-Leo
+  - Juan Antonio Garcia-Velasco
+  - Patricia Diaz-Gimeno
+  publisher: Pharmaceutics
+  date: '2025-08-06'
+  link: https://doi.org/hb9w5r
+  orcid: 0000-0003-0031-7545
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  ref: gsrm
+- id: doi:10.1093/humrep/deaf084
+  title: 'Genomics in diagnosing primary ovarian insufficiency (POI): the door is
+    open, but the path is still to be paved'
+  authors:
+  - Omar F Ammar
+  - George Liperis
+  - Kashish Sharma
+  - Zoya E Ali
+  - Patricia Diaz-Gimeno
+  - Filippo Zambelli
+  - Martine A Gould
+  - Vikram Talaulikar
+  - Juan J Fraire-Zamora
+  publisher: Human Reproduction
+  date: '2025-04-28'
+  link: https://doi.org/hb9w5s
+  orcid: 0000-0003-0031-7545
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s12958-024-01325-4
+  title: Whole-exome sequencing and Drosophila modelling reveal mutated genes and
+    pathways contributing to human ovarian failure
+  authors:
+  - Ismael Henarejos-Castillo
+  - "Francisco Jos\xE9 Sanz"
+  - Cristina Solana-Manrique
+  - Patricia Sebastian-Leon
+  - Ignacio Medina
+  - "Jos\xE9 Remohi"
+  - Nuria Paricio
+  - Patricia Diaz-Gimeno
+  publisher: Reproductive Biology and Endocrinology
+  date: '2024-12-04'
+  link: https://doi.org/hb9w5t
+  orcid: 0000-0003-0031-7545
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  description: hola
+  ref: gsrm
+- id: doi:10.1016/j.rbmo.2024.104377
+  title: Corticosteroids, androgens, progestogens and oestrogens in the endometrial
+    microenvironment, and their association with endometrial progression and function
+  authors:
+  - Diana Marti-Garcia
+  - Almudena Devesa-Peiro
+  - Elena Labarta
+  - Marina Lopez-Nogueroles
+  - Patricia Sebastian-Leon
+  - Nuria Pellicer
+  - Marcos Meseguer
+  - Patricia Diaz-Gimeno
+  publisher: Reproductive BioMedicine Online
+  date: '2024-12-01'
+  link: https://doi.org/hb9w5v
+  orcid: 0000-0003-0031-7545
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  ref: gsrm
+- id: doi:10.1101/2024.11.25.624843
+  title: "Identification of novel drug-drug interactions: towards precision medicine\
+    \ in women\u2019s reproductive health"
+  authors:
+  - Pablo Garcia-Acero
+  - Ismael Henarejos-Castillo
+  - Patricia Sebastian-Leon
+  - Antonio Parraga-Leo
+  - Juan Antonio Garcia-Velasco
+  - Patricia Diaz-Gimeno
+  publisher: openRxiv
+  date: '2024-11-26'
+  link: https://doi.org/g8twh6
+  orcid: 0000-0003-0031-7545
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.fertnstert.2024.06.010
+  title: 'Reply of the Authors: Altered endometrial receptivity: walking across the
+    long path of precision medicine'
+  authors:
+  - Patricia Diaz-Gimeno
+  - Patricia Sebastian-Leon
+  - Antonio Pellicer
+  publisher: Fertility and Sterility
+  date: '2024-09-01'
+  link: https://doi.org/hb9w5w
+  orcid: 0000-0003-0031-7545
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.fertnstert.2024.03.015
+  title: 'Predicting risk of endometrial failure: a biomarker signature that identifies
+    a novel disruption independent of endometrial timing in patients undergoing hormonal
+    replacement cycles'
+  authors:
+  - Patricia Diaz-Gimeno
+  - Patricia Sebastian-Leon
+  - Katharina Spath
+  - Diana Marti-Garcia
+  - Josefa Maria Sanchez-Reyes
+  - Maria del Carmen Vidal
+  - Almudena Devesa-Peiro
+  - Immaculada Sanchez-Ribas
+  - Asunta Martinez-Martinez
+  - Nuria Pellicer
+  - Dagan Wells
+  - Antonio Pellicer
+  publisher: Fertility and Sterility
+  date: '2024-08-01'
+  link: https://doi.org/hb9w5x
+  orcid: 0000-0003-0031-7545
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  ref: gsrm
+- id: doi:10.1186/s12958-023-01131-4
+  title: Deciphering a shared transcriptomic regulation and the relative contribution
+    of each regulator type through endometrial gene expression signatures
+  authors:
+  - Antonio Parraga-Leo
+  - Patricia Sebastian-Leon
+  - Almudena Devesa-Peiro
+  - Diana Marti-Garcia
+  - Nuria Pellicer
+  - Jose Remohi
+  - Francisco Dominguez
+  - Patricia Diaz-Gimeno
+  publisher: Reproductive Biology and Endocrinology
+  date: '2023-09-12'
+  link: https://doi.org/hb9w5z
+  orcid: 0000-0003-0031-7545
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  ref: gsrm
+- id: doi:10.1016/j.envres.2023.116514
+  title: "Association of blood cadmium and lead levels with self-reported reproductive\
+    \ lifespan and pregnancy loss: The national health and nutrition examination survey\
+    \ 1999\u20132018"
+  authors:
+  - Roberto Gonzalez-Martin
+  - Maria Grau-Perez
+  - Patricia Sebastian-Leon
+  - Patricia Diaz-Gimeno
+  - Carmen Vidal
+  - Maria Tellez-Plaza
+  - Francisco Dominguez
+  publisher: Environmental Research
+  date: '2023-09-01'
+  link: https://doi.org/gzg9h4
+  orcid: 0000-0003-0031-7545
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/molehr/gaac035
+  title: Predicted COVID-19 molecular effects on endometrium reveal key dysregulated
+    genes and functions
+  authors:
+  - I Henarejos-Castillo
+  - A Devesa-Peiro
+  - L de Miguel-Gomez
+  - P Sebastian-Leon
+  - M Romeu
+  - A Aleman
+  - C Molina-Gil
+  - A Pellicer
+  - I Cervello
+  - P Diaz-Gimeno
+  publisher: Molecular Human Reproduction
+  date: '2022-10-07'
+  link: https://doi.org/g9343g
+  orcid: 0000-0003-0031-7545
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  ref: gsrm
+- id: doi:10.1093/humrep/deac010
+  title: 'Breaking the ageing paradigm in endometrium: endometrial gene expression
+    related to cilia and ageing hallmarks in women over 35 years'
+  authors:
+  - A Devesa-Peiro
+  - P Sebastian-Leon
+  - A Parraga-Leo
+  - A Pellicer
+  - P Diaz-Gimeno
+  publisher: Human Reproduction
+  date: '2022-01-27'
+  link: https://doi.org/grg8hc
+  orcid: 0000-0003-0031-7545
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  ref: gsrm
+- id: doi:10.1093/humrep/deab262
+  title: Identifying and optimizing human endometrial gene expression signatures for
+    endometrial dating
+  authors:
+  - P Diaz-Gimeno
+  - P Sebastian-Leon
+  - J M Sanchez-Reyes
+  - K Spath
+  - A Aleman
+  - C Vidal
+  - A Devesa-Peiro
+  - E Labarta
+  - "I S\xE1nchez-Ribas"
+  - M Ferrando
+  - G Kohls
+  - "J A Garc\xEDa-Velasco"
+  - E Seli
+  - D Wells
+  - A Pellicer
+  publisher: Human Reproduction
+  date: '2021-12-07'
+  link: https://doi.org/hb9w52
+  orcid: 0000-0003-0031-7545
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  ref: gsrm
+- id: doi:10.1016/j.fertnstert.2021.04.009
+  title: Pathways and factors regulated by bone marrow-derived stem cells in human
+    ovarian tissue
+  authors:
+  - Anna Buigues
+  - Patricia Diaz-Gimeno
+  - Patricia Sebastian-Leon
+  - Livia Pellegrini
+  - Nuria Pellicer
+  - Antonio Pellicer
+  - Sonia Herraiz
+  publisher: Fertility and Sterility
+  date: '2021-09-01'
+  link: https://doi.org/gjw9nk
+  orcid: 0000-0003-0031-7545
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/humrep/deab184
+  title: Analysis of serum and endometrial progesterone in determining endometrial
+    receptivity
+  authors:
+  - E Labarta
+  - P Sebastian-Leon
+  - A Devesa-Peiro
+  - P Celada
+  - C Vidal
+  - J Giles
+  - C Rodriguez-Varela
+  - E Bosch
+  - P Diaz-Gimeno
+  publisher: Human Reproduction
+  date: '2021-08-12'
+  link: https://doi.org/grjdt4
+  orcid: 0000-0003-0031-7545
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/jpm11070609
+  title: Machine Learning-Based Approach Highlights the Use of a Genomic Variant Profile
+    for Precision Medicine in Ovarian Failure
+  authors:
+  - Ismael Henarejos-Castillo
+  - Alejandro Aleman
+  - "Bego\xF1a Martinez-Montoro"
+  - "Francisco Javier Gracia-Azn\xE1rez"
+  - Patricia Sebastian-Leon
+  - Monica Romeu
+  - Jose Remohi
+  - "Ana Pati\xF1o-Garcia"
+  - Pedro Royo
+  - Gorka Alkorta-Aranburu
+  - Patricia Diaz-Gimeno
+  publisher: Journal of Personalized Medicine
+  date: '2021-06-27'
+  link: https://doi.org/hb9w53
+  orcid: 0000-0003-0031-7545
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  ref: gsrm
+- id: doi:10.1093/molehr/gaab027
+  title: Transcriptional changes through menstrual cycle reveal a global transcriptional
+    derepression underlying the molecular mechanism involved in the window of implantation
+  authors:
+  - P Sebastian-Leon
+  - A Devesa-Peiro
+  - A Aleman
+  - A Parraga-Leo
+  - V Arnau
+  - A Pellicer
+  - P Diaz-Gimeno
+  publisher: Molecular Human Reproduction
+  date: '2021-04-08'
+  link: https://doi.org/hb9w54
+  orcid: 0000-0003-0031-7545
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  ref: gsrm
+- id: doi:10.1093/molehr/gaab011
+  title: 'Guidelines for biomarker discovery in endometrium: correcting for menstrual
+    cycle bias reveals new genes associated with uterine disorders'
+  authors:
+  - Almudena Devesa-Peiro
+  - Patricia Sebastian-Leon
+  - Antonio Pellicer
+  - Patricia Diaz-Gimeno
+  publisher: Molecular Human Reproduction
+  date: '2021-02-12'
+  link: https://doi.org/gh3xqn
+  orcid: 0000-0003-0031-7545
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  ref: gsrm
+- id: doi:10.1016/j.fertnstert.2020.07.021
+  title: 'Personalized medicine through three-dimensional cell-based culture systems
+    in assisted reproductive technologies: How close are we?'
+  authors:
+  - Patricia Diaz-Gimeno
+  - "Irene Cervell\xF3"
+  publisher: Fertility and Sterility
+  date: '2020-09-01'
+  link: https://doi.org/hb9w55
+  orcid: 0000-0003-0031-7545
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.fertnstert.2020.06.026
+  title: 'SARS-CoV-2 infection risk assessment in the endometrium: viral infection-related
+    gene expression across the menstrual cycle'
+  authors:
+  - Ismael Henarejos-Castillo
+  - Patricia Sebastian-Leon
+  - Almudena Devesa-Peiro
+  - Antonio Pellicer
+  - Patricia Diaz-Gimeno
+  publisher: Fertility and Sterility
+  date: '2020-08-01'
+  link: https://doi.org/gg4s2g
+  orcid: 0000-0003-0031-7545
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  ref: gsrm
+- id: doi:10.1016/j.fertnstert.2020.01.025
+  title: 'Uterine disorders affecting female fertility: what are the molecular functions
+    altered in endometrium?'
+  authors:
+  - Almudena Devesa-Peiro
+  - Patricia Sebastian-Leon
+  - Francisco Garcia-Garcia
+  - Vicente Arnau
+  - Alejandro Aleman
+  - Antonio Pellicer
+  - Patricia Diaz-Gimeno
+  publisher: Fertility and Sterility
+  date: '2020-06-01'
+  link: https://doi.org/hb9w6f
+  orcid: 0000-0003-0031-7545
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  ref: gsrm
+- title: Cumulus cells have longer telomeres than leukocytes in reproductive-age women
+  publisher: Fertility and sterility
+  date: '2020-02-25'
+  orcid: 0000-0003-0031-7545
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Gene expression profile as an endometrial receptivity marker
+  date: '2020-02-25'
+  orcid: 0000-0003-0031-7545
+  plugin: orcid.py
+  file: orcid.yaml
+- title: ' Genetic Markers of Endometrial Receptivity'
+  publisher: How to Prepare the Endometrium to Maximize Implantation Rates and IVF
+    Success
+  date: '2020-02-25'
+  orcid: 0000-0003-0031-7545
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Biomarker discovery associated with endometrial-related conditions is biased
+    by the menstrual cycle effect in the transcriptomic analysis
+  publisher: HUMAN REPRODUCTION
+  date: '2020-02-25'
+  orcid: 0000-0003-0031-7545
+  plugin: orcid.py
+  file: orcid.yaml
+- title: 'Cumulus cell telomere length is associated with vitamin D3''s main catabolite
+    24, 25-dihydroxyvitamin D3 concentration in serum and follicular fluid: An ovarian
+    ageing explanation.'
+  publisher: HUMAN REPRODUCTION
+  date: '2020-02-25'
+  orcid: 0000-0003-0031-7545
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Drug-Target Model for Discovering and Personalizing Endometriosis Therapies.
+  publisher: REPRODUCTIVE SCIENCES
+  date: '2020-02-25'
+  orcid: 0000-0003-0031-7545
+  plugin: orcid.py
+  file: orcid.yaml
+- title: NGS analysis of human embryo culture media reveals miRNAs of extra embryonic
+    origin
+  publisher: Reproductive Sciences
+  date: '2020-02-25'
+  orcid: 0000-0003-0031-7545
+  plugin: orcid.py
+  file: orcid.yaml
+- title: 'Noninvasive embryo assessment: how close are we?'
+  publisher: Fertility and sterility
+  date: '2020-02-25'
+  orcid: 0000-0003-0031-7545
+  plugin: orcid.py
+  file: orcid.yaml
+- title: 'The degradation of vitamin D across time: an issue leading to unreliable
+    results in reproductive research'
+  publisher: Fertility and Sterility
+  date: '2020-02-25'
+  orcid: 0000-0003-0031-7545
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Transcriptomic Changes and Paracrine Factors Involved in Ovarian Rejuvenation
+    Induced by Stem Cell.
+  publisher: REPRODUCTIVE SCIENCES
+  date: '2020-02-25'
+  orcid: 0000-0003-0031-7545
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Transcriptomic behavior of genes associated with chromosome 21 aneuploidies
+    in early embryo development
+  publisher: Fertility and sterility
+  date: '2020-02-25'
+  orcid: 0000-0003-0031-7545
+  plugin: orcid.py
+  file: orcid.yaml
+- title: iTRAQ comparison of proteomic profiles of endometrial receptivity
+  publisher: Journal of proteomics
+  date: '2020-02-25'
+  orcid: 0000-0003-0031-7545
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Gene expression profile as an endometrial receptivity marker
+  date: '2020-02-25'
+  orcid: 0000-0003-0031-7545
+  plugin: orcid.py
+  file: orcid.yaml
+- title: "Farmacolog\xEDa de sistemas: estudio de las bases moleculares de respuesta\
+    \ a f\xE1rmacos"
+  publisher: "Gen\xE9tica M\xE9dica"
+  date: '2020-02-25'
+  orcid: 0000-0003-0031-7545
+  plugin: orcid.py
+  file: orcid.yaml
+- title: '24, 25 (OH) 2d3: a novel accurate indicator of ovarian vitamin D status
+    in women at reproductive age'
+  publisher: Fertility and Sterility
+  date: '2020-02-25'
+  orcid: 0000-0003-0031-7545
+  plugin: orcid.py
+  file: orcid.yaml
+- title: A Network Model Provides a Framework for Pharmacogenomic Research and Reveals
+    the Interaction and Possible Effects in Fertility of Commonly Used Therapeutic
+    Drugs.
+  publisher: REPRODUCTIVE SCIENCES
+  date: '2020-02-25'
+  orcid: 0000-0003-0031-7545
+  plugin: orcid.py
+  file: orcid.yaml
+- title: 'Asynchronous and pathological windows of implantation: two causes of recurrent
+    implantation failure'
+  publisher: Human Reproduction
+  date: '2020-02-25'
+  orcid: 0000-0003-0031-7545
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Dysregulated genes and their functional pathways in luteinized granulosa
+    cells from PCOS patients after cabergoline treatment
+  publisher: Reproduction
+  date: '2020-02-25'
+  orcid: 0000-0003-0031-7545
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Functional genomic meta-analysis identifies similarities between endometrial-related
+    subfertilities
+  publisher: HUMAN REPRODUCTION
+  date: '2020-02-25'
+  orcid: 0000-0003-0031-7545
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Ovarian vitamin d metabolism is conserved despite seasonal variability and
+    follicular maturation
+  publisher: Fertility and Sterility
+  date: '2020-02-25'
+  orcid: 0000-0003-0031-7545
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Psychological Aspects of Female Reproductive Medicine
+  date: '2020-02-25'
+  orcid: 0000-0003-0031-7545
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Stem Cell-Secreted Paracrine Factors in Human Endometrial Regeneration
+  publisher: REPRODUCTIVE SCIENCES
+  date: '2020-02-25'
+  orcid: 0000-0003-0031-7545
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Defective decidualization during and after severe preeclampsia reveals a
+    possible maternal contribution to the etiology
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2020-02-25'
+  orcid: 0000-0003-0031-7545
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Does an increased body mass index affect endometrial gene expression patterns
+    in infertile patients? A functional genomics analysis
+  publisher: Fertility and sterility
+  date: '2020-02-25'
+  orcid: 0000-0003-0031-7545
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Improvement of the Endometrial Receptivity Signature Reveals a Possible Maternal
+    Origin of Biochemical Pregnancies.
+  publisher: REPRODUCTIVE SCIENCES
+  date: '2020-02-25'
+  orcid: 0000-0003-0031-7545
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Leucine-rich repeat--containing G-protein--coupled receptor 5--positive cells
+    in the endometrial stem cell niche
+  publisher: Fertility and sterility
+  date: '2020-02-25'
+  orcid: 0000-0003-0031-7545
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Lipidomic profiling of endometrial fluid in women with ovarian endometriosis
+  publisher: Biology of reproduction
+  date: '2020-02-25'
+  orcid: 0000-0003-0031-7545
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Network Biology of Menstrual Cycle to Understand the Key Drivers of Endometrial
+    Receptivity.
+  publisher: REPRODUCTIVE SCIENCES
+  date: '2020-02-25'
+  orcid: 0000-0003-0031-7545
+  plugin: orcid.py
+  file: orcid.yaml
+- title: New transcriptomic insight improves endometrial Recurrent Implantation Failure
+    (RIF) diagnosis and distinguishes clearly between a displaced and a disrupted
+    Window Of Implantation (WOI)
+  publisher: HUMAN REPRODUCTION
+  date: '2020-02-25'
+  orcid: 0000-0003-0031-7545
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Role of Stro1+/CD44+ stem cells in myometrial physiology and uterine remodeling
+    during pregnancy
+  publisher: Biology of reproduction
+  date: '2020-02-25'
+  orcid: 0000-0003-0031-7545
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Severe Preeclampsia Is Associated with Resistance to Decidualization.
+  publisher: REPRODUCTIVE SCIENCES
+  date: '2020-02-25'
+  orcid: 0000-0003-0031-7545
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Window of implantation transcriptomic stratification reveals different endometrial
+    subsignatures associated with live birth and biochemical pregnancy
+  publisher: Fertility and sterility
+  date: '2020-02-25'
+  orcid: 0000-0003-0031-7545
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Human somatic cells subjected to genetic induction with six germ line-related
+    factors display meiotic germ cell-like features
+  publisher: Scientific reports
+  date: '2020-02-25'
+  orcid: 0000-0003-0031-7545
+  plugin: orcid.py
+  file: orcid.yaml
+- title: 'Intrauterine human chorionic gonadotropin infusion in oocyte donors promotes
+    endometrial synchrony and induction of early decidual markers for stromal survival:
+    a randomized clinical trial'
+  publisher: Human Reproduction
+  date: '2020-02-25'
+  orcid: 0000-0003-0031-7545
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Is luteal phase support successfully performed using 25 mg/day of subcutaneous
+    progesterone in controlled ovarian stimulation cycles with GnRH agonist triggering?
+  publisher: HUMAN REPRODUCTION
+  date: '2020-02-25'
+  orcid: 0000-0003-0031-7545
+  plugin: orcid.py
+  file: orcid.yaml
+- title: 'Mitochondrial DNA content as a viability score in human euploid embryos:
+    less is better'
+  publisher: Fertility and sterility
+  date: '2020-02-25'
+  orcid: 0000-0003-0031-7545
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Clinical application of the endometrial receptivity array
+  publisher: "M\xE9decine de la Reproduction"
+  date: '2020-02-25'
+  orcid: 0000-0003-0031-7545
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Clinical efficiency of embryo transfer performed in receptive vs non-receptive
+    endometrium diagnosed by the endometrial receptivity array (era) test
+  publisher: Fertility and Sterility
+  date: '2020-02-25'
+  orcid: 0000-0003-0031-7545
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Deciphering the proteomic signature of human endometrial receptivity
+  publisher: Human Reproduction
+  date: '2020-02-25'
+  orcid: 0000-0003-0031-7545
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Transcriptomics of the human endometrium
+  publisher: International Journal of Developmental Biology
+  date: '2020-02-25'
+  orcid: 0000-0003-0031-7545
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Defining the genomic signature of totipotency and pluripotency during early
+    human development
+  publisher: PLoS One
+  date: '2020-02-25'
+  orcid: 0000-0003-0031-7545
+  plugin: orcid.py
+  file: orcid.yaml
+- title: 'Profiling the gene signature of endometrial receptivity: clinical results'
+  publisher: Fertility and sterility
+  date: '2020-02-25'
+  orcid: 0000-0003-0031-7545
+  plugin: orcid.py
+  file: orcid.yaml
+- title: The accuracy and reproducibility of the endometrial receptivity array is
+    superior to histology as a diagnostic method for endometrial receptivity
+  publisher: Fertility and sterility
+  date: '2020-02-25'
+  orcid: 0000-0003-0031-7545
+  plugin: orcid.py
+  file: orcid.yaml
+- title: The endometrial receptivity array for diagnosis and personalized embryo transfer
+    as a treatment for patients with repeated implantation failure
+  publisher: Fertility and sterility
+  date: '2020-02-25'
+  orcid: 0000-0003-0031-7545
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Personalizing embryo transfer (pET) using an endometrial customized array
+    as diagnostic and therapeutic strategy in patients with implantation failure
+  publisher: Fertility and Sterility
+  date: '2020-02-25'
+  orcid: 0000-0003-0031-7545
+  plugin: orcid.py
+  file: orcid.yaml
+- title: A genomic diagnostic tool for human endometrial receptivity based on the
+    transcriptomic signature
+  publisher: Fertility and sterility
+  date: '2020-02-25'
+  orcid: 0000-0003-0031-7545
+  plugin: orcid.py
+  file: orcid.yaml
+- title: "Desarrollo de una herramienta molecular diagn\xF3stica de la receptividad\
+    \ endometrial"
+  date: '2020-02-25'
+  orcid: 0000-0003-0031-7545
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Defining the Gene Expression Signature for Human Endometrial Receptivity.
+  publisher: REPRODUCTIVE SCIENCES
+  date: '2020-02-25'
+  orcid: 0000-0003-0031-7545
+  plugin: orcid.py
+  file: orcid.yaml
+- title: "Perfil de expresi\xF3n g\xE9nica como marcador de la receptividad endometrial"
+  date: '2020-02-25'
+  orcid: 0000-0003-0031-7545
+  plugin: orcid.py
+  file: orcid.yaml
+- title: The endometrial receptivity array (ERA) improves the endometrial dating and
+    provides an objective method for clinical evaluation
+  publisher: Fertility and Sterility
+  date: '2020-02-25'
+  orcid: 0000-0003-0031-7545
+  plugin: orcid.py
+  file: orcid.yaml
+- title: "El Endometrio Humano: Desde la investigaci\xF3n a la cl\u0301\u0131nica"
+  date: '2020-02-25'
+  orcid: 0000-0003-0031-7545
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Development of a customized array for the molecular diagnosis of human endometrial
+    receptivity
+  publisher: Fertility and Sterility
+  date: '2020-02-25'
+  orcid: 0000-0003-0031-7545
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Uterine receptivity and the ramifications of ovarian stimulation on endometrial
+    function
+  publisher: Seminars in reproductive medicine
+  date: '2020-02-25'
+  orcid: 0000-0003-0031-7545
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Methods, apparatus and software for improving SMI latency on systems using
+    timing-sensitive registers
+  date: '2020-02-25'
+  orcid: 0000-0003-0031-7545
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.fertnstert.2017.07.007
+  title: Window of implantation transcriptomic stratification reveals different endometrial
+    subsignatures associated with live birth and biochemical pregnancy
+  authors:
+  - "Patricia D\xEDaz-Gimeno"
+  - Maria Ruiz-Alonso
+  - Patricia Sebastian-Leon
+  - Antonio Pellicer
+  - Diana Valbuena
+  - "Carlos Sim\xF3n"
+  publisher: Fertility and Sterility
+  date: '2017-10-01'
+  link: https://doi.org/gb2pf4
+  type: paper
+  ref: gsrm
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1093/humrep/dey023
+  title: "Asynchronous and pathological windows of implantation: two causes of recurrent\
+    \ implantation failure\u2020"
+  authors:
+  - P Sebastian-Leon
+  - N Garrido
+  - "J Remoh\xED"
+  - A Pellicer
+  - P Diaz-Gimeno
+  publisher: Human Reproduction
+  date: '2018-02-14'
+  link: https://doi.org/gc22vk
+  type: paper
+  ref: gsrm
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/s12958-024-01323-6
+  title: 'Age-related uterine changes and its association with poor reproductive outcomes:
+    a systematic review and meta-analysis'
+  authors:
+  - Diana Marti-Garcia
+  - Asunta Martinez-Martinez
+  - Francisco Jose Sanz
+  - Almudena Devesa-Peiro
+  - Patricia Sebastian-Leon
+  - Nataly del Aguila
+  - Antonio Pellicer
+  - Patricia Diaz-Gimeno
+  publisher: Reproductive Biology and Endocrinology
+  date: '2024-11-30'
+  link: https://doi.org/hbxzkv
+  type: paper
+  ref: gsrm
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/2024.11.08.24316907
+  title: Stratifying IVF population endometria using a prognosis gradient independent
+    of endometrial timing
+  authors:
+  - Josefa Maria Sanchez-Reyes
+  - Antonio Parraga-Leo
+  - Patricia Sebastian-Leon
+  - Maria del Carmen Vidal
+  - Diana Marti-Garcia
+  - Katharina Spath
+  - Immaculada Sanchez-Ribas
+  - "Francisco Jos\xE9 Sanz"
+  - Nuria Pellicer
+  - Jose Remohi
+  - Dagan Wells
+  - Antonio Pellicer
+  - Patricia Diaz-Gimeno
+  publisher: openRxiv
+  date: '2024-11-08'
+  link: https://doi.org/hcbx35
+  type: paper
+  ref: gsrm
   plugin: sources.py
   file: sources.yaml

@@ -1,23 +1,117 @@
-- id: doi:10.1371/journal.pcbi.1007128
+# - id: doi:10.1371/journal.pcbi.1007128
+#   type: paper
+#   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididdoi:undoi:t ut labore et dolore magna aliqua.
+#   date: 2020-12-4
+#   image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=idoi:nfo:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+#   buttons:
+#     - type: manubot
+#       link: https://greenelab.github.io/meta-review/
+#     - type: source
+#       text: Manuscript Source
+#       link: https://github.com/greenelab/meta-review
+#     - type: website
+#       link: http://manubot.org/
+#   tags:
+#     - open science
+#     - collaboration
+#   repo: greenelab/meta-review
+
+- id: doi:10.1016/j.fertnstert.2017.07.007
   type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+  ref: gsrm
+
+- id: doi:10.1093/humrep/dey023
+  type: paper
+  ref: gsrm
+
+- id: doi:10.1016/j.fertnstert.2020.01.025
+  type: paper
+  ref: gsrm
+
+- id: doi:10.1016/j.fertnstert.2020.06.026
+  type: paper
+  ref: gsrm
+
+- id: doi:10.1093/molehr/gaab011
+  type: paper
+  ref: gsrm
+
+- id: doi:10.3390/jpm11070609
+  type: paper
+  ref: gsrm
+
+- id: doi:10.1093/molehr/gaab027
+  type: paper
+  ref: gsrm
+
+- id: doi:10.1093/humrep/deac010
+  type: paper
+  ref: gsrm
+
+- id: doi:10.1093/humrep/deab262
+  type: paper
+  ref: gsrm
+
+- id: doi:10.1093/molehr/gaac035
+  type: paper
+  ref: gsrm
+
+- id: doi:10.1186/s12958-023-01131-4
+  type: paper
+  ref: gsrm
+
+- id: doi:10.1016/j.fertnstert.2024.03.015
+  type: paper
+  ref: gsrm
+
+- id: doi:10.1186/s12958-024-01325-4
+  type: paper
+  description: "hola"
+  ref: gsrm
+
+- id: doi:10.1016/j.rbmo.2024.104377
+  type: paper
+  ref: gsrm
+
+
+- id: doi:10.1186/s12958-024-01323-6
+  type: paper
+  ref: gsrm
+
+- id: doi:10.1101/2024.11.08.24316907
+  type: paper
+  ref: gsrm
+
+- id: doi:10.3390/pharmaceutics17081020
+  type: paper
+  ref: gsrm
+
+- id: doi:10.1016/j.fertnstert.2025.05.150
+  type: paper
+  ref: gsrm
+
+- id: doi:10.1016/j.fertnstert.2025.09.004
+  type: paper
+  ref: gsrm
+
+# - id: doi:10.1016/j.biopha.2025.118942
+#   type: paper
+#   ref: gsrm
+
+
+
+- id: doi:10.1016/j.biopha.2025.118942
+  # type: paper
+  description: Aquí se hicieron cosas.
+  ref: gsrm
+  # date: 2020-12-4
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0753332225011369-gr1.jpg
   buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
     - type: source
       text: Manuscript Source
       link: https://github.com/greenelab/meta-review
     - type: website
       link: http://manubot.org/
   tags:
-    - open science
-    - collaboration
-  repo: greenelab/meta-review
-
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+    - Reproduction Medicine
+    - Review
