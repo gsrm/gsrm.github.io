@@ -6,7 +6,7 @@
   display: flex;
   margin: 20px 0;
   border-radius: var(--rounded);
-  background: var(--background);
+  background: var(--background-card);
   overflow: hidden;
   box-shadow: var(--shadow);
 }
@@ -34,7 +34,8 @@
   height: min-content;
   padding: 20px;
   padding-left: 30px;
-  text-align: left;
+  text-align: justify;
+  padding-right: 70px;
   overflow-wrap: break-word;
   z-index: 0;
 }
