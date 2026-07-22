@@ -27,6 +27,6 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% include section.html %}
 
-Paella.  
+# Foto de grupo
 
-{% include figure.html image="images/group-photo.jpg" %}
+{% include figure.html image="images/group-photo-nocoat.jpg" %}

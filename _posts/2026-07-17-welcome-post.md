@@ -1,17 +1,17 @@
 ---
 title: Post de Bienvenida
-image: images/group-photo.jpg
+image: images/group-photo-paella.jpg
 author: Rubén Cañas
 tags: welcome
 ---
 
-Damos la bienvenida a la página del grupo!  
+# Damos la bienvenida a la página del grupo!  
 
 Don Quijote de la Mancha[a] es una novela escrita por el español Miguel de Cervantes Saavedra. Publicada su primera parte con el título de El ingenioso hidalgo don Quijote de la Mancha a comienzos de 1605, es considerada una de las obras más destacadas de la literatura española y una de las más importantes de la literatura universal. [1]En 1615 apareció su continuación con el título de Segunda parte del ingenioso caballero don Quijote de la Mancha.[2]
 
 Es la primera obra genuinamente desmitificadora de la tradición caballeresca y cortés por su tratamiento burlesco. Ha sido considerada por parte de la crítica como una de las primeras novelas modernas y, como tal, ha ejercido un enorme influjo en la narrativa europea. En 2002, a petición del Club Noruego del Libro y Bokklubben World Library, fue incluida en una lista elaborada mediante votación de cien escritores de 54 nacionalidades sobre las mejores obras literarias de la historia, donde ocupó el primer puesto.[3]
 
-Estructura, génesis, contenido, estilo y fuentes
+## Estructura, génesis, contenido, estilo y fuentes
 
 Placa en el número 87 de la calle Atocha de Madrid colocada con motivo del tercer centenario del Quijote. El texto dice: «Aquí estuvo la imprenta donde se hizo en 1604 la edición príncipe de la primera parte de El ingenioso hidalgo don Quijote de la Mancha compuesta por Miguel de Cervantes Saavedra, publicada en mayo [ sic ] de 1605. Conmemoración MDCCCCV».
 Génesis y publicación de la obra
@@ -19,7 +19,8 @@ La novela consta de dos partes: El ingenioso hidalgo don Quijote de la Mancha, p
 
 Cervantes redactó en agosto de 1604 el prólogo y los poemas burlescos que preceden a la primera parte, fecha en la que ya debía haber presentado el original para su aprobación al Consejo Real,[5] ya que los trámites administrativos y la preceptiva aprobación por la censura se completaron el 26 de septiembre, cuando consta la firma del privilegio real.[6] De la edición se encargó don Francisco de Robles, «librero del Rey nuestro Señor», que invirtió en ella entre siete y ocho mil reales, de los cuales una quinta parte correspondía al pago del autor. Robles encargó la impresión de esta primera parte a la casa de Juan de la Cuesta, una de las imprentas que habían permanecido en Madrid después del traslado de la Corte a Valladolid,[7] que terminó el trabajo el 1 de diciembre, muy rápidamente para las condiciones de la época y con una calidad bastante mediocre, de un nivel no superior al habitual entonces en las imprentas españolas.[8] Esta edición princeps de 1604 contiene además un número elevadísimo de erratas que multiplica varias veces las encontradas en otras obras de Cervantes de similar extensión.[9] Los primeros ejemplares debieron enviarse a Valladolid, donde se expedía la tasa obligatoria que debía insertarse en los pliegos de cada ejemplar y que se fechó a 20 de diciembre, por lo que la novela debió estar disponible en la entonces capital la última semana del mes, mientras que en Madrid probablemente se tuvo que esperar a comienzos del año 1605.[4] Esta edición se reimprimió en el mismo año y en el mismo taller, de forma que hay en realidad dos ediciones autorizadas de 1605, y son ligeramente distintas: la diferencia más importante es que «El robo del rucio de Sancho», desaparecido en la primera edición, se cuenta en la segunda, aunque fuera de lugar.[10] Hubo, también, dos ediciones pirata publicadas el mismo año en Lisboa.[11][12]
 
-Hay una teoría de que existió antes una novela más corta, en el estilo de sus futuras Novelas ejemplares. Ese escrito, si es que existió, está perdido, pero hay muchos testimonios de que la historia de don Quijote, sin entenderse exactamente a qué se refiere o la forma en que la noticia se circulara, fue conocida en círculos literarios antes de la primera edición (cuya impresión se acabó en diciembre de 1604). Por ejemplo, el toledano Ibrahim Taybilí, de nombre cristiano Juan Pérez y el escritor morisco más conocido entre los establecidos en Túnez tras la expulsión general de 1609-1612, narró una visita en 1604 a una librería en Alcalá en donde adquirió las Epístolas familiares y el Relox de Príncipes de Fray Antonio de Guevara y la Historia imperial y cesárea de Pedro Mexía. En ese mismo pasaje se burla de los libros de caballerías de moda y cita como obra conocida el Quijote. Eso le permitió a Jaime Oliver Asín añadir un dato a favor de la posible existencia de una discutida edición anterior a la de 1605. Tal hipótesis ha sido desmentida por Francisco Rico.
+# Hay una teoría de que existió 
+antes una novela más corta, en el estilo de sus futuras Novelas ejemplares. Ese escrito, si es que existió, está perdido, pero hay muchos testimonios de que la historia de don Quijote, sin entenderse exactamente a qué se refiere o la forma en que la noticia se circulara, fue conocida en círculos literarios antes de la primera edición (cuya impresión se acabó en diciembre de 1604). Por ejemplo, el toledano Ibrahim Taybilí, de nombre cristiano Juan Pérez y el escritor morisco más conocido entre los establecidos en Túnez tras la expulsión general de 1609-1612, narró una visita en 1604 a una librería en Alcalá en donde adquirió las Epístolas familiares y el Relox de Príncipes de Fray Antonio de Guevara y la Historia imperial y cesárea de Pedro Mexía. En ese mismo pasaje se burla de los libros de caballerías de moda y cita como obra conocida el Quijote. Eso le permitió a Jaime Oliver Asín añadir un dato a favor de la posible existencia de una discutida edición anterior a la de 1605. Tal hipótesis ha sido desmentida por Francisco Rico.
 
 Fuentes e influencias previas
 El Entremés de los romances y otras posibles fuentes de inspiración
