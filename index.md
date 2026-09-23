@@ -3,7 +3,9 @@
 
 # Genomic & Systems Reproductive Medicine
 
-An engaging 1-3 sentence description of your lab.
+Led by Dr. Patricia Díaz-Gimeno at IVI (Valencia), our research group focuses on advancing reproductive medicine through systems biology and translational genomics.
+
+We investigate the molecular mechanisms underlying endometrial receptivity, decoding the precise window of implantation to improve fertility outcomes. Our core mission is to identify novel biomarkers and develop personalized diagnostic tools for complex reproductive challenges, with a special emphasis on recurrent implantation failure (RIF) and endometriosis. By bridging cutting-edge transcriptomics with clinical practice, we aim to optimize treatments and bring precision medicine to reproductive health.
 
 {% include section.html %}
 
@@ -11,7 +13,7 @@ An engaging 1-3 sentence description of your lab.
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Explore our Areas of Research. Our laboratory focuses mainly into Endometrial competence, which is addressed from various points of view, including Systems Pharmacology, Endometrial Failure, Endometrial aging, and much more.
 
 {%
   include button.html
@@ -26,7 +28,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/assets/research-areas.png"
   link="research"
   title="Our Research"
   text=text
@@ -34,7 +36,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+As a result of our scientific work, we have been awarded a large number of funded projects that enable us to continue our research. 
 
 {%
   include button.html
@@ -49,7 +51,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/assets/projects-placeholder.png"
   link="projects"
   title="Our Projects"
   flip=true
@@ -59,7 +61,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+None of this would be possible without the people who constitute the laboratory.
 
 {%
   include button.html
@@ -74,11 +76,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/group-photo-labcoat.jpg"
   link="team"
   title="Our Team"
   text=text
 %}
-
-
 

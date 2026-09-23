@@ -7,10 +7,9 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our research group develops cutting-edge, multidisciplinary projects bridging translational genomics and clinical reproductive medicine. Funded by competitive public and industrial grants (including ISCIII, CDTI, and European Horizon programs), our work focuses on decoding endometrial receptivity, investigating the impact of chronic stress and aging on fertility, analyzing embryo-endometrial interactions through multi-omics, and developing advanced, AI-driven diagnostic tools to advance personalized precision medicine in assisted reproduction.
 
-{% include tags.html tags="publication, resource, website" %}
+{% include tags.html tags="" %}
 
 {% include search-info.html %}
 

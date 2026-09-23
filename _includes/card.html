@@ -30,9 +30,19 @@
     </a>
     {% endif %}
 
+    
+    {% if include.code %}
+    <span class="card-code">{{ include.code }}</span>
+    {% endif %}
+    
+    {% if include.date2 %}
+      <span class="card-date2">{{ include.date2 }}</span>
+    {% endif %}
+
     {% if include.subtitle %}
       <span class="card-subtitle">{{ include.subtitle }}</span>
     {% endif %}
+
 
     {% if include.description %}
       <p>

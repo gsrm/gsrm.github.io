@@ -1,47 +1,200 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+# - title: Cool Dataset
+#   subtitle: a subtitle
+#   group: featured
+#   image: images/photo.jpg
+#   link: https://github.com/
+#   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#   repo: greenelab/lab-website-template
+#   tags:
+#     - resource
+
+# - title: Cool Package
+#   subtitle: a subtitle
+#   group: featured
+#   image: images/photo.jpg
+#   link: https://github.com/
+#   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#   repo: greenelab/lab-website-template
+#   tags:
+#     - resource
+
+# - title: Cool Tutorial
+#   subtitle: a subtitle
+#   image: images/photo.jpg
+#   link: https://github.com/
+#   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#   repo: greenelab/lab-website-template
+#   tags:
+#     - resource
+#     - publication
+
+# - title: Cool Web App
+#   subtitle: a subtitle
+#   image: images/photo.jpg
+#   link: https://github.com/
+#   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#   repo: greenelab/lab-website-template
+#   tags:
+#     - software
+
+# - title: Cool Web Server
+#   subtitle: a subtitle
+#   image: images/photo.jpg
+#   link: https://github.com/
+#   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#   repo: greenelab/lab-website-template
+#   tags:
+#     - software
+
+# - title: Testeo
+#   subtitle: Interno
+#   image: images/photo.jpg
+#   link: /projects/proyecto-1
+#   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  
+#   tags:
+#     - Desc proyecto
+
+# - title:
+#   date2:
+#   code:
+#   image:
+#   link:
+#   description: 
+  
+#   tags:
+#     - Research
+
+- title: Genomic personalization of the population of Navarre for the Prevention of Premature Ovarian Failure (POF)
+  date2: 01/07/2017 - 01/07/2019 
+  code: "FEDER: 0011-1365-2017-000265"
+  image: 
+  link:
+  description: This project investigated genetic variants associated with premature ovarian failure to aid in the early prevention of this syndrome.
+  
+  tags:
+    - Genomics
+
+- title: Molecular basis of long-term stress as a cause of embryonic implantation failure
+  date2: 01/2018 - 01/2020
+  code: GV/2018/151
+  image:
+  link:
+  description: This project examined various metabolites in endometrial tissue to establish the relationship between cortisol and metabolites associated with endometrial progression and function.
+  
+  tags:
+    - Implantation failure
+
+- title: SARS-CoV-2 viral infection molecular model to predict the systemic and personalized response for implantation and early development in IVF patients.
+  date2: 01/09/2020 - 01/09/2021
+  code: 
+  image: The objective of this project was to investigate the effects of this infection on implantation failure at the genetic and functional levels.
+  link:
+  description: 
+  
+  tags:
+    - Research
+
+- title: Transcriptomic behaviour in extended embryonic culture of euploid embryos and embryos with chromosome 21 aneuploidy, wtih and without chromosomal silencing.
+  date2: 01/09/2020 - 31/08/2022
+  code: APOTIP/2020/013
+  image:
+  link:
+  description: 
+  
+  tags:
+    - Research
+
+- title: Identification of the pathological implantation windows and its therapeutic targets for clinical translation toward precision reproductive medicine.
+  date2: 01/01/2020 - 31/12/2023
+  code: PI19/00537
+  image:
+  link: # este puede estar bien porque tiene bastante más info del proyecto.
+  # group: featured
+  description: The objective of this project was to characterize and identify endometrial implantation failure using transcriptomics and to propose new treatments to improve reproductive outcomes in IVF patients.
+  
+  tags:
+    - Research
+
+- title: Tailoring Exogenous Progesterone Therapy to Improve Endometrial Receptivity.
+  date2: 2021 - 2024
+  code: "CDTI: IDI-20210286"
+  image:
+  link:
+  # group: featured
+  description: The main objective of this project was to evaluate the effect of exogenous progesterone administration on endometrial endocrinology and on genes related to endometrial receptivity, in order to determine the treatment that most closely resembles the natural cycle.
+  
+  tags:
+    - Research
+
+- title: Research on the Influence of Chronic Stress on Endometrial Receptivity
+  date2: 2021 - 2024
+  code: "CDTI: IDI-20210289"
+  image:
+  link:
+  description: The objective of this project was to analyze the impact of stress—as measured by psychological tests—on endometrial endocrinology and transcriptomic changes.
+  
+  tags:
+    - Research
+
+- title: New endometrial diagnostic tool for patients with benign uterine conditions
+  date2: 2023 - 2025
+  code: ZL-2023/00575
+  image:
+  link:
+  description: The goal of this project is to develop a preventive diagnostic tool based on artificial intelligence and transcriptome data to identify endometrial implantation failure in patients with benign uterine conditions.
+  
+  tags:
+    - Research
+
+- title: Transcriptomic and secretomic study of euploid and aneuploid embryos from preimplantation stages through early postimplantation stages.
+  date2: 2024 - 2025
+  code: CIAICO/2022/203
+  image:
+  link:
+  description: 
+  
+  tags:
+    - Research
+
+- title: "ENDOAGE: A molecular clock for endometrial aging as a prognostic tool to improve assisted reproductive technologies."
+  date2: 2024 - 2026
+  code: PI23/00806
+  image:
+  link:
+  description: The goal of this project is to develop an endometrial molecular clock using various omics data (epigenomics and transcriptomics) to design a tool that can assess the molecular age of the endometrium in IVF patients and the molecular consequences of endometrial aging on reproductive outcomes.
+  
+  tags:
+    - Research
+
+
+- title: A New INTEGRative Taxonomy of the Molecular Causes of Endometrial Infertility Based on a Multi-Omics Approach Aimed at Precision Medicine (INTEGRENDO)
+  date2: 2026 - 2027
+  code: CNS2025-166963
+  image: images/projects/integrendo.png
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  link: projects/integrendo
+  description: The main objective of this project is to conduct an in-depth analysis of the multiple causes of endometrial implantation failure as a whole, using a multi-omic approach.
+  
   tags:
-    - resource
+    - Research
 
-- title: Cool Package
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: Screening for preventive and noninvasive markers of infertility associated with genetic predisposition to anxiety and stress.
+  date2: 01/11/2025 - 31/12/2027
+  code: AVI
+  image:
+  link:
+  description: 
+  
   tags:
-    - resource
+    - Research
 
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: "TULIP “Untapping the potential for improved female reproductive healthcare: diagnosing and reinforcing the status of UTERINE-associated fertility”"
+  date2: 01/01/2026 - 31/12/2029
+  code: HORIZON-MSCA-SE-01-2024
+  image:
+  link: 
+  description: 
+  
   tags:
-    - resource
-    - publication
-
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
-
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
+    - Research
