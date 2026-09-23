@@ -47,4 +47,18 @@
   font-style: italic;
 }
 
+.card-date2 {
+  margin-top: -10px !important;
+  margin-bottom: -10px !important;
+  font-size: 0.8rem !important;
+  font-style: italic;
+}
+
+.card-code {
+  margin-top: -10px !important;
+  margin-bottom: -10px !important;
+  font-size: 0.8rem !important;
+  font-style: italic;
+}
+
 /*# sourceMappingURL=card.css.map */
