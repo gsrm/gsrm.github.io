@@ -4,7 +4,7 @@ ref: ipp
 image: images/people/Inma-tiny.jpg
 description: Post-doctoral Researcher
 role: postdoc
-# affiliation: IVI Foundation
+# affiliation: IVI Institute
 aliases:
   - I. Pérez-Prieto
   - Inmaculada Pérez-Prieto

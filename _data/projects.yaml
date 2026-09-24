@@ -71,9 +71,9 @@
   image: 
   link:
   description: This project investigated genetic variants associated with premature ovarian failure to aid in the early prevention of this syndrome.
-  
   tags:
-    - Genomics
+    - Precision medicine
+    - Omics-analysis
 
 - title: Molecular basis of long-term stress as a cause of embryonic implantation failure
   date2: 01/2018 - 01/2020
@@ -81,7 +81,6 @@
   image:
   link:
   description: This project examined various metabolites in endometrial tissue to establish the relationship between cortisol and metabolites associated with endometrial progression and function.
-  
   tags:
     - Implantation failure
 
@@ -93,7 +92,7 @@
   description: 
   
   tags:
-    - Research
+    - Precision medicine
 
 - title: Transcriptomic behaviour in extended embryonic culture of euploid embryos and embryos with chromosome 21 aneuploidy, wtih and without chromosomal silencing.
   date2: 01/09/2020 - 31/08/2022
@@ -103,7 +102,7 @@
   description: 
   
   tags:
-    - Research
+    - Omics-analysis
 
 - title: Identification of the pathological implantation windows and its therapeutic targets for clinical translation toward precision reproductive medicine.
   date2: 01/01/2020 - 31/12/2023
@@ -114,7 +113,7 @@
   description: The objective of this project was to characterize and identify endometrial implantation failure using transcriptomics and to propose new treatments to improve reproductive outcomes in IVF patients.
   
   tags:
-    - Research
+    - Precision medicine
 
 - title: Tailoring Exogenous Progesterone Therapy to Improve Endometrial Receptivity.
   date2: 2021 - 2024
@@ -125,7 +124,7 @@
   description: The main objective of this project was to evaluate the effect of exogenous progesterone administration on endometrial endocrinology and on genes related to endometrial receptivity, in order to determine the treatment that most closely resembles the natural cycle.
   
   tags:
-    - Research
+    - Precision medicine
 
 - title: Research on the Influence of Chronic Stress on Endometrial Receptivity
   date2: 2021 - 2024
@@ -135,7 +134,7 @@
   description: The objective of this project was to analyze the impact of stress—as measured by psychological tests—on endometrial endocrinology and transcriptomic changes.
   
   tags:
-    - Research
+    - Omics-analysis
 
 - title: New endometrial diagnostic tool for patients with benign uterine conditions
   date2: 2023 - 2025
@@ -145,7 +144,8 @@
   description: The goal of this project is to develop a preventive diagnostic tool based on artificial intelligence and transcriptome data to identify endometrial implantation failure in patients with benign uterine conditions.
   
   tags:
-    - Research
+    - Omics-analysis
+    - Artificial Intelligence
 
 - title: Transcriptomic and secretomic study of euploid and aneuploid embryos from preimplantation stages through early postimplantation stages.
   date2: 2024 - 2025
@@ -155,7 +155,8 @@
   description: 
   
   tags:
-    - Research
+    - Omics-analysis
+    - Precision medicine
 
 - title: "ENDOAGE: A molecular clock for endometrial aging as a prognostic tool to improve assisted reproductive technologies."
   date2: 2024 - 2026
@@ -165,7 +166,7 @@
   description: The goal of this project is to develop an endometrial molecular clock using various omics data (epigenomics and transcriptomics) to design a tool that can assess the molecular age of the endometrium in IVF patients and the molecular consequences of endometrial aging on reproductive outcomes.
   
   tags:
-    - Research
+    - Omics-analysis
 
 
 - title: A New INTEGRative Taxonomy of the Molecular Causes of Endometrial Infertility Based on a Multi-Omics Approach Aimed at Precision Medicine (INTEGRENDO)
@@ -177,7 +178,8 @@
   description: The main objective of this project is to conduct an in-depth analysis of the multiple causes of endometrial implantation failure as a whole, using a multi-omic approach.
   
   tags:
-    - Research
+    - Omics-analysis
+    - Multi-omics
 
 - title: Screening for preventive and noninvasive markers of infertility associated with genetic predisposition to anxiety and stress.
   date2: 01/11/2025 - 31/12/2027
@@ -187,7 +189,8 @@
   description: 
   
   tags:
-    - Research
+    - Precision medicine
+    - stress
 
 - title: "TULIP “Untapping the potential for improved female reproductive healthcare: diagnosing and reinforcing the status of UTERINE-associated fertility”"
   date2: 01/01/2026 - 31/12/2029
@@ -197,4 +200,4 @@
   description: 
   
   tags:
-    - Research
+    - Precision medicine

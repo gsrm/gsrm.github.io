@@ -4,7 +4,7 @@ ref: nac
 image: images/people/Nataly-tiny.jpg
 description: PhD Student
 role: phd
-# affiliation: IVI Foundation
+# affiliation: IVI Institute
 aliases:
   - Nataly del Águila
   - N. del Aguila

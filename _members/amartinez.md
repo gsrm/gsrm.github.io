@@ -4,7 +4,7 @@ ref: amm
 image: images/people/Asunta-tiny.jpg
 description: PhD student
 role: phd
-# affiliation: IVI Foundation
+# affiliation: IVI Institute
 aliases:
   - A. Martinez-Martinez
   - Asunta Martinez-Martinez

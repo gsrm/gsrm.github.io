@@ -3,7 +3,7 @@ name: Patricia Díaz-Gimeno, PhD
 ref: pdg
 image: images/people/PatriciaDG-tiny.jpg
 role: principal-investigator
-affiliation: IVI Foundation
+affiliation: IVI Institute
 aliases:
   - P. Díaz-Gimeno
   - Patricia Diaz-Gimeno
@@ -12,7 +12,7 @@ links:
   linkedin: patridiazgimeno
 ---
 
-Patricia Diaz-Gimeno is a biologist specialised in genetics, winner of the extraordinary award on the degree programme (2006). She obtained her PhD degree, working in IVI Foundation, after developing a genomic diagnostic tool based on  the transcriptomic signature for human endometrial receptivity (Diaz-Gimeno, 2011). This translational research tool was patented and nowadays is used in clinical practice. After 5 years of learning about the endometrial transcriptomics of patient population, the tool was retrained (Diaz-Gimeno, 2017) and have been became a resource of knowledge. 
+Patricia Diaz-Gimeno is a biologist specialised in genetics, winner of the extraordinary award on the degree programme (2006). She obtained her PhD degree, working in IVI Institute, after developing a genomic diagnostic tool based on  the transcriptomic signature for human endometrial receptivity (Diaz-Gimeno, 2011). This translational research tool was patented and nowadays is used in clinical practice. After 5 years of learning about the endometrial transcriptomics of patient population, the tool was retrained (Diaz-Gimeno, 2017) and have been became a resource of knowledge. 
 
 Patricia Diaz-Gimeno has been specialized in highthoughtput technology and its related computational analysis. She developed a postdoctoral stage in the computational genomics department leaded by Joaquin Dopazo (2011-2013), a three months postdoctoral stay in Genomics of gene expression lab leaded by Ana Conesa (2014), both in Centro de Investigaciones Principe Felipe, and recently a six months postdoctoral stay in Oxford University UK. Nuffield department of Women's health leaded by Dagan Wells (2019). Patricia Diaz-Gimeno currently develops her research at Hospital Universitario y Politécnico La FE (HUP La Fe) and Instituto de Investigación Sanitaria (IIS) La Fe as an established principal investigator. 
 

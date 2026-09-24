@@ -4,7 +4,7 @@ ref: rem
 image: images/people/Rebeca-tiny.jpg
 description: PhD student
 role: phd
-# affiliation: IVI Foundation
+# affiliation: IVI Institute
 aliases:
   - R. Esteve-Moreno
   - Rebeca Esteve-Moreno

@@ -4,7 +4,7 @@ ref: aqv
 image: images/people/Ali-tiny.jpg
 description: Laboratory technician
 role: laboratory
-# affiliation: IVI Foundation
+# affiliation: IVI Institute
 aliases:
   - A. Quiñonero-Villora
   - Alicia Quiñonero-Villora

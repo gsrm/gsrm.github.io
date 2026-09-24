@@ -44,8 +44,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/lafe.jpg"
+  caption="Health Research Institute La Fe"
 %}
 
 {% endcapture %}
@@ -54,8 +54,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/ivi.jpg"
+  caption="IVI Institute"
 %}
 
 {% endcapture %}

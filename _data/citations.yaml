@@ -35,7 +35,9 @@
   orcid: 0000-0003-0031-7545
   plugin: sources.py
   file: sources.yaml
-  description: "Aqu\xED se hicieron cosas."
+  description: By highlighting critical research gaps in conditions like endometriosis,
+    the study underscores how integrating pharmacogenetic insights can drive preventive
+    medicine, minimize adverse effects, and optimize personalized fertility therapies.
   ref: gsrm
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0753332225011369-gr1.jpg
   buttons:
