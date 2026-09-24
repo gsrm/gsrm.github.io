@@ -4,7 +4,7 @@ ref: psl
 image: images/people/PatriciaSL-tiny.jpg
 description: Post-Doctoral Researcher
 role: postdoc
-# affiliation: IVI Institute
+# affiliation: IVI Foundation
 aliases:
   - P. Sebastian-Leon
   - Patricia Sebastian-Leon

@@ -4,7 +4,7 @@ ref: mvm
 image: images/people/Mar-tiny.jpeg
 description: Research Assistant
 role: phd
-# affiliation: IVI Institute
+# affiliation: IVI Foundation
 aliases:
   - Mar Vaquerizo-Medina
   - M. Vaquerizo-Medina

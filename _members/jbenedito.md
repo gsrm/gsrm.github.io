@@ -4,7 +4,7 @@ ref: jba
 image: images/people/jose-tiny.jpeg
 description: Research Assistant
 role: programmer
-# affiliation: IVI Institute
+# affiliation: IVI Foundation
 aliases:
   - P. Sebastian-Leon
   - Patricia Sebastián-León

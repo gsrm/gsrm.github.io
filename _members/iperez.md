@@ -4,7 +4,7 @@ ref: ipp
 image: images/people/Inma-tiny.jpg
 description: Post-doctoral Researcher
 role: postdoc
-# affiliation: IVI Institute
+# affiliation: IIS La Fe
 aliases:
   - I. Pérez-Prieto
   - Inmaculada Pérez-Prieto

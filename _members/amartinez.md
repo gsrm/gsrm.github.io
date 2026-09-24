@@ -4,7 +4,7 @@ ref: amm
 image: images/people/Asunta-tiny.jpg
 description: PhD student
 role: phd
-# affiliation: IVI Institute
+# affiliation: IIS La Fe
 aliases:
   - A. Martinez-Martinez
   - Asunta Martinez-Martinez

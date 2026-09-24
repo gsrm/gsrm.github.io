@@ -4,7 +4,7 @@ ref:
 image: images/people/Elena-tiny.jpg
 description: PhD student
 role: phd
-# affiliation: IVI Institute
+# affiliation: Foundation
 aliases:
   - E. Pérez-Rico
   - Elena Pérez-Rico
