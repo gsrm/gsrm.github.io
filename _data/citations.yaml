@@ -1,5 +1,23 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.64898/2026.09.23.26363653
+  title: 'Transcriptomic Reproducibility in Endometrial Biopsies: Evidence Across
+    Cycles and Tissue Regions in Hormonal Replacement Therapy Endometrial Preparation
+    Protocols'
+  authors:
+  - Asunta Martinez-Martinez
+  - Patricia Sebastian-Leon
+  - Antonio Parraga-Leo
+  - Pilar Alama
+  - Laura Caracena
+  - Francisco Jose Sanz
+  - Patricia Diaz-Gimeno
+  publisher: openRxiv
+  date: '2026-09-25'
+  link: https://doi.org/hckrbf
+  orcid: 0000-0003-0031-7545
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.fertnstert.2025.09.004
   title: 'Evaluating the feasibility of hyperspectral endometrial analysis as a less
     invasive technique for endometrial evaluation: a pilot study'
