@@ -8,15 +8,9 @@ role: phd
 aliases:
   - Mar Vaquerizo-Medina
   - M. Vaquerizo-Medina
-# links:
+links:
 #   orcid: 0000-0003-0031-7545
-#   linkedin: patridiazgimeno
+  linkedin: mar-vaquerizo-medina
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
-Elit at imperdiet dui accumsan.
-Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
-Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
-Lacinia at quis risus sed vulputate odio ut.
-Magna eget est lorem ipsum.
+Mar Vaquerizo is a health biologist who has recently completed a Master's degree in Bioinformatics at the University of Valencia. She joined IVI Foundation team in 2024 to carry out her Master's thesis, which focused on evaluating different epigenetic clocks in order to identify the most accurate model for estimating endometrial biological age in IVF patients. She is currently funded by an APOTI grant to study genetic variants associated with endometrial aging. 
