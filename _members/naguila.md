@@ -9,15 +9,11 @@ aliases:
   - Nataly del Águila
   - N. del Aguila
   - Nataly del Águila de Cárdenas
-# links:
+links:
 #   orcid: 0000-0003-0031-7545
-#   linkedin: patridiazgimeno
+  linkedin: nataly-del-aguila-msc-0b7ab3115/
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
-Elit at imperdiet dui accumsan.
-Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
-Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
-Lacinia at quis risus sed vulputate odio ut.
-Magna eget est lorem ipsum.
+Biologist specializing in Assisted Human Reproduction, with over 10 years of experience in reproductive medicine, combining a clinical background in IVF laboratories with translational research. She holds an Official Master’s Degree in Biotechnology of Human Assisted Reproduction from the University of Valencia, in collaboration with IVI Institute, and is currently pursuing her PhD at IVI Foundation–IIS La Fe, supported by a Santiago Grisolía predoctoral fellowship funded by the Generalitat Valenciana.  
+
+Her doctoral research focuses on the biological aging of the human endometrium and its potential implications for assisted reproductive treatments, integrating epigenetics, telomere biology, transcriptomics, and clinical data. Her research experience includes DNA methylation analysis, epigenetic clocks, telomere length assessment, and statistical analysis of molecular and clinical data.
