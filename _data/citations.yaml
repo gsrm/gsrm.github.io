@@ -530,13 +530,6 @@
   orcid: 0000-0003-0031-7545
   plugin: orcid.py
   file: orcid.yaml
-- title: ' Genetic Markers of Endometrial Receptivity'
-  publisher: How to Prepare the Endometrium to Maximize Implantation Rates and IVF
-    Success
-  date: '2020-02-25'
-  orcid: 0000-0003-0031-7545
-  plugin: orcid.py
-  file: orcid.yaml
 - title: Biomarker discovery associated with endometrial-related conditions is biased
     by the menstrual cycle effect in the transcriptomic analysis
   publisher: HUMAN REPRODUCTION
@@ -554,6 +547,13 @@
   file: orcid.yaml
 - title: Drug-Target Model for Discovering and Personalizing Endometriosis Therapies.
   publisher: REPRODUCTIVE SCIENCES
+  date: '2020-02-25'
+  orcid: 0000-0003-0031-7545
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Genetic Markers of Endometrial Receptivity
+  publisher: How to Prepare the Endometrium to Maximize Implantation Rates and IVF
+    Success
   date: '2020-02-25'
   orcid: 0000-0003-0031-7545
   plugin: orcid.py
