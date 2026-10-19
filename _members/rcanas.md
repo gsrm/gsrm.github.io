@@ -11,14 +11,8 @@ aliases:
 links:
   linkedin: ruben-canas-canas-74332010b/
   github: rubencc96
-  google-scholar: QVXGo1EAAAAJ
   orcid: 0000-0001-9729-7610
+  google-scholar: QVXGo1EAAAAJ
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
-Elit at imperdiet dui accumsan.
-Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
-Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
-Lacinia at quis risus sed vulputate odio ut.
-Magna eget est lorem ipsum.
+Dr. Rubén Cañas-Cañas is a researcher specializing in Bioinformatics and Data Science, holding a PhD in Medicine and Translational Research (_Cum Laude_). He currently supports large-scale genomic research at the IVI Foundation through the design and management of high-performance computing (HPC) infrastructures and scalable NGS workflows. His core research interests lie at the intersection of genomics, metagenomics, and data analysis. Rubén has actively contributed to the scientific community with publications in the field of wastewater-based epidemiology, focusing on SARS-CoV-2 dynamics and antibiotic resistance surveillance, as well as research on the genetic basis of neurodegenerative diseases.
