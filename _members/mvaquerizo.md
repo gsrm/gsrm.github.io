@@ -1,5 +1,5 @@
 ---
-name: Mar Vaquerizo-Medina
+name: Mar Vaquerizo-Medina, MSc
 ref: mvm
 image: images/people/Mar-tiny.jpeg
 description: Research Assistant

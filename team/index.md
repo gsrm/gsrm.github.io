@@ -30,7 +30,7 @@ Discovery consists of seeing what everybody has seen and thinking what nobody ha
 
 {% include figure.html image="images/group-photo-nocoat.jpg" %}
 
-{% include section.html background="images/background-gemini-1.png" dark=true %}
+{% include section.html dark=true %}
 
 # Collaborators
 

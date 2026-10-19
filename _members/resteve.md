@@ -9,8 +9,9 @@ aliases:
   - R. Esteve-Moreno
   - Rebeca Esteve-Moreno
 links:
-  # orcid: 0000-0003-0031-7545
+  orcid: 0009-0002-3576-7714
   linkedin: rebeca-esteve-moreno/
+  UV: 1245425/publicaciones
 ---
 
 Rebeca Esteve holds a degree in Biotechnology from the University of Valencia, with specialized training in Human Reproduction after completing a Master’s Degree in Biotechnology of Assisted Human Reproduction. She is currently a pre-doctoral researcher at the University of Valencia thanks to a CIACIF grant awarded by the Valencian Regional Government’s Department of Education, Universities, and Employment, co-funded by the European Union (CIACIF/2022/447).  
