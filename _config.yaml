@@ -1,7 +1,9 @@
 # site properties and page defaults
 title: Genomic & Systems Reproductive Medicine group
 subtitle: IIS La Fe & IVI Institute
-description: Hacemos cosas, como los catalanes.
+url: https://gsrm.github.io
+author: Genomic & Systems Reproductive Medicine group IVI institute
+description: Translational genomics and reproductive medicine research group led by Dr. Patricia Díaz-Gimeno at IVI Institute, focusing on endometrial competence, precision reproductive medicine, and advanced molecular diagnostics.
 header: images/background-gemini-2.png
 footer: images/background-gemini-1.png
 proofer: false
@@ -51,6 +53,7 @@ plugins:
   - jekyll-redirect-from
   - jekyll-feed
   - jekyll-last-modified-at
+  - jekyll-seo-tag
 
 # code block syntax highlighting
 highlighter: rouge

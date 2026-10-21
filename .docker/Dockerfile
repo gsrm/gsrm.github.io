@@ -1,5 +1,5 @@
-# start with official ruby docker image as base
-FROM ruby:3.1.2
+# start with official ruby docker image as base (updated to Debian 12 Bookworm)
+FROM ruby:3.1-bookworm
 
 # set working directory within container
 WORKDIR /usr/src/app
@@ -13,7 +13,10 @@ RUN VERSION=$(grep -A 1 'BUNDLED WITH' Gemfile.lock | tail -n 1 | xargs); \
     bundle _${VERSION}_ install
 
 # install python
-RUN apt update && apt install -y python3 python3-pip
+RUN apt-get update && apt-get install -y --no-install-recommends python3 python3-pip && rm -rf /var/lib/apt/lists/*
+
+# override Debian 12 pip restriction inside docker
+ENV PIP_BREAK_SYSTEM_PACKAGES=1
 
 # install python packages
 RUN python3 -m pip install --no-cache-dir --upgrade --requirement requirements.txt
