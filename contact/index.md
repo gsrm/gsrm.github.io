@@ -53,7 +53,7 @@ Get in touch with our team for research collaborations, inquiries, or clinical t
 {%
   include figure.html
   image="images/ivi.jpg"
-  caption="IIS La Fe & IVI Foundation"
+  caption="IIS La Fe & IVI Institute"
 %}
 
 {% endcapture %}

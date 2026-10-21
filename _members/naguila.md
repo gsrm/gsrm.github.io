@@ -4,7 +4,7 @@ ref: nac
 image: images/people/Nataly-tiny.jpg
 description: PhD Student
 role: phd
-# affiliation: IVI Foundation
+# affiliation: IVI Institute
 aliases:
   - Nataly del Águila
   - N. del Aguila
@@ -14,6 +14,6 @@ links:
   linkedin: nataly-del-aguila-msc-0b7ab3115/
 ---
 
-Biologist specializing in Assisted Human Reproduction, with over 10 years of experience in reproductive medicine, combining a clinical background in IVF laboratories with translational research. She holds an Official Master’s Degree in Biotechnology of Human Assisted Reproduction from the University of Valencia, in collaboration with IVI Institute, and is currently pursuing her PhD at IVI Foundation–IIS La Fe, supported by a Santiago Grisolía predoctoral fellowship funded by the Generalitat Valenciana.  
+Biologist specializing in Assisted Human Reproduction, with over 10 years of experience in reproductive medicine, combining a clinical background in IVF laboratories with translational research. She holds an Official Master’s Degree in Biotechnology of Human Assisted Reproduction from the University of Valencia, in collaboration with IVI Institute, and is currently pursuing her PhD at IVI Institute–IIS La Fe, supported by a Santiago Grisolía predoctoral fellowship funded by the Generalitat Valenciana.  
 
 Her doctoral research focuses on the biological aging of the human endometrium and its potential implications for assisted reproductive treatments, integrating epigenetics, telomere biology, transcriptomics, and clinical data. Her research experience includes DNA methylation analysis, epigenetic clocks, telomere length assessment, and statistical analysis of molecular and clinical data.
