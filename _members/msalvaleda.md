@@ -13,10 +13,6 @@ aliases:
 #   linkedin: patridiazgimeno
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
-Elit at imperdiet dui accumsan.
-Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
-Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
-Lacinia at quis risus sed vulputate odio ut.
-Magna eget est lorem ipsum.
+ Maria Salvaleda Mateu holds a Bachelor's degree in Biotechnology and a Master’s degree in Biotechnology of Assisted Human Reproduction. She is currently a pre-doctoral researcher at IIS La Fe/IVI Institute, supported by a FPU grant from Spanish State Research Agency. Her doctoral thesis investigates the impact of progesterone on the endometrium and blood serum in the context of assisted reproduction field, using advanced techniques such as transcriptomics and Ultra-Performance Liquid Chromatography (UPLC).  
+ 
+She has co-authored several papers in high-impact international journals within the field of reproductive biology, focusing on the roles of progesterone and estrogen in artificial cycles. Additionally, she has presented findings from her doctoral research at leading international conferences, including those organized by the European Society of Human Reproduction and Embryology (ESHRE) and the American Society for Reproductive Medicine (ASRM).
