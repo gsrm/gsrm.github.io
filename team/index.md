@@ -26,8 +26,6 @@ Discovery consists of seeing what everybody has seen and thinking what nobody ha
 
 {% include section.html %}
 
-# The whole team united
-
 {% include figure.html image="images/group-photo-nocoat.jpg" %}
 
 {% include section.html dark=true %}

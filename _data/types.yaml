@@ -136,6 +136,12 @@ UV:
   tooltip: universidad de València
   link: https://producciocientifica.uv.es/investigadores/$VALUE
 
+researchgate:
+  icon: fa-brands fa-researchgate
+  text: ResearchGate
+  tooltip: ResearchGate
+  link: https://researchgate.net/profile/$VALUE
+
 # alerts
 
 tip:

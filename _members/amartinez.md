@@ -8,15 +8,12 @@ role: phd
 aliases:
   - A. Martinez-Martinez
   - Asunta Martinez-Martinez
-# links:
-#   orcid: 0000-0003-0031-7545
-#   linkedin: patridiazgimeno
+links:
+  linkedin: asunta-martinez
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
-Elit at imperdiet dui accumsan.
-Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
-Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
-Lacinia at quis risus sed vulputate odio ut.
-Magna eget est lorem ipsum.
+Asunta Martínez is currently in her third year of her PhD, focusing on the validation of a transcriptomics- and machine learning-based tool designed to predict the risk of endometrial failure. She holds a Bachelor's degree in Biochemistry and Biomedical Sciences, a Master's degree in Biotechnology of Human Assisted Reproduction, and a Master's degree in Bioinformatics.  
+
+Her research focuses on the molecular mechanisms underlying endometrial function and reproductive outcomes, with particular emphasis on transcriptomics, bioinformatics, and biomarker discovery. She has contributed to several scientific publications investigating endometrial aging, epigenetic alterations, genetic factors associated with female infertility, and the development of molecular tools to assess endometrial reproductive potential. She is also the first author of a recent preprint investigating the reproducibility of endometrial transcriptomic profiles across menstrual cycles and tissue regions.  
+
+Her technical expertise includes RNA sequencing (RNA-seq), transcriptomic data processing and analysis, machine learning, and statistical programming using R and Python.

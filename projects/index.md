@@ -15,12 +15,13 @@ Our research group develops cutting-edge, multidisciplinary projects bridging tr
 
 {% include section.html %}
 
+<!-- 
 ## Featured
+-->
+<!-- 
+{% include list.html component="card" data="projects" filter="group == 'featured'" %} -->
 
-{% include list.html component="card" data="projects" filter="group == 'featured'" %}
+<!-- 
+{% include list.html component="card" data="projects" filter="!group" style="small" %}  -->
 
-{% include section.html %}
-
-## More
-
-{% include list.html component="card" data="projects" filter="!group" style="small" %}
+{% include list.html component="card" data="projects" style="small" %}
